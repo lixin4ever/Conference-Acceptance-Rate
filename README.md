@@ -16,10 +16,13 @@ Statistics of acceptance rate for AI conference
 |EACL'12 | 25.95% (82/316) | - |
 |EACL'14 | 24.6% (78/317) | 23.1% (46/199) |
 |EACL'17 | 27.0% (119/441) | 24% (120/502) |
+|COLING'12 | 27% (311/1000+) | - |
+|COLING'14 | 31% (217/705) | - |
+|COLING'16 | 32.4% (337/1039) | - |
 |KDD'14 | 14.6% (151/1036) | - |
 |KDD'15 | 19.5% (160/819) | - |
-|KDD'16 | 5.9% (66/1115) | 6.8% (76/1115) |
-|KDD'17 | 8.6% (64/748) | 8.8% (66/748) |
+|KDD'16 | 13.7% (142/1115) | - |
+|KDD'17 | 17.4% (130/748) | - |
 |ICDM'14 | 9.77% (71/727) | 9.76% (71/727) |
 |ICDM'15 | 8.4% (68/807) | 9.7% (78/807) |
 |ICDM'16 | 8.6% (78/904) | 11.0% (100/904) |
@@ -46,7 +49,22 @@ Statistics of acceptance rate for AI conference
 |IJCAI'14 | ? | - |
 |IJCAI'15 | 29% (575/?) | - |
 |IJCAI'16 | 24% (?/2294) | - |
-|IJCAI'17 | 26% (?/2540) | - |
+|IJCAI'17 | 26% (660/2540) | - |
+|ICML'2014 | 15% (Cycle I), 22% (Cycle II) | - |
+|ICML'2015 | 26% | - |
+|ICML'2016 | 24% | - |
+|ICML'2017 | 25.9% (434/1676) | - |
+|NIPS'2014 | 24.7% (414/1678) | - |
+|NIPS'2015 | 21% (403/1838) | - |
+|NIPS'2016 | 22.7% (571/?) | - |
+|NIPS'2017 | 20.9% (678/3240) | - |
+|ICLR'2014 | 24.7% (414/1678) | - |
+|ICLR'2015 | 21% (403/1838) | - |
+|ICLR'2016 | 22.7% (571/?) | - |
+|ICLR'2017 | 38.7% (196/507) | - |
+
+Note: For KDD and COLING, we just consider the papers accepted as oral or poster. For the conference ICDM, submissions of short paper and those of long paper are in the same session and the decisions of the paper type are made according to its quality.
+
 
 
 
