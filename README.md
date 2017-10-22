@@ -62,8 +62,16 @@ Statistics of acceptance rate for AI conference
 |ICLR'2015 | - | - |
 |ICLR'2016 | - | - |
 |ICLR'2017 | 38.7% (196/507) | - |
+|UAI'2014 | 32% (94/292) | - |
+|UAI'2015 | 34% (99/291) | - |
+|UAI'2016 | 31% (85/275) | - |
+|UAI'2017 | TBD | - |
+|AISTATS'2014 | 35.8% (120/335) | - |
+|AISTATS'2015 | 28.7% (127/442) | - |
+|AISTATS'2016 | 30.7% (165/537) | - |
+|AISTATS'2017 | ? (167/?) | - |
 
-Note: For KDD and COLING, we just consider the papers accepted as oral or poster. For the conference ICDM, submissions of short paper and those of long paper are in the same session and the decisions of the paper type are made according to its quality.
+Note: For **KDD** and **COLING**, we just consider the papers accepted as oral or poster. For **ICDM**, submissions of short paper and those of long paper are in the same session and the decisions of the paper type are made according to its quality.
 
 
 
