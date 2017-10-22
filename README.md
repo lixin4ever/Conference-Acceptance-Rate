@@ -58,9 +58,9 @@ Statistics of acceptance rate for AI conference
 |NIPS'2015 | 21% (403/1838) | - |
 |NIPS'2016 | 22.7% (571/?) | - |
 |NIPS'2017 | 20.9% (678/3240) | - |
-|ICLR'2014 | 24.7% (414/1678) | - |
-|ICLR'2015 | 21% (403/1838) | - |
-|ICLR'2016 | 22.7% (571/?) | - |
+|ICLR'2014 | - | - |
+|ICLR'2015 | - | - |
+|ICLR'2016 | - | - |
 |ICLR'2017 | 38.7% (196/507) | - |
 
 Note: For KDD and COLING, we just consider the papers accepted as oral or poster. For the conference ICDM, submissions of short paper and those of long paper are in the same session and the decisions of the paper type are made according to its quality.
