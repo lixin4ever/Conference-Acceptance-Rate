@@ -74,6 +74,13 @@ Statistics of acceptance rate for AI conference
 |AISTATS'2015 | 28.7% (127/442) | - |
 |AISTATS'2016 | 30.7% (165/537) | - |
 |AISTATS'2017 | ? (167/?) | - |
+|CVPR'2014 | 29.9% (540/1807) | - |
+|CVPR'2015 | 28.3% (602/2123) | - |
+|CVPR'2016 | 29.9% (643/2145) | - |
+|CVPR'2017 | 29.9% (783/2620) | - |
+|ICCV'2013 | 27.9% (454/1629) | - |
+|ICCV'2015 | 30.9% (525/1698) | - |
+|ICCV'2017 | 29.0% (621/2143) | - |
 
 Note: For **KDD** and **COLING**, we just consider the papers accepted as oral or poster. For **ICDM**, submissions of short paper and those of long paper are in the same session and the decisions of the paper type are made according to its quality.
 
