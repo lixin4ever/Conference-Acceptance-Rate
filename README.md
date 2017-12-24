@@ -13,6 +13,7 @@ Statistics of acceptance rate for AI conference
 |NAACL HLT'13 | 30% (88/293) | 37% (51/162) |
 |NAACL HLT'15 | 29.1% (117/402) | 22.1% (69/312) |
 |NAACL HLT'16 | 25% (100/396) | 29% (82/284) |
+|NAACL HLT'18 | TBD | TBD |
 |EACL'12 | 25.95% (85/326) | - |
 |EACL'14 | 24.6% (78/317) | 23.1% (46/199) |
 |EACL'17 | 27.0% (119/441) | 24% (120/502) |
@@ -34,6 +35,7 @@ Statistics of acceptance rate for AI conference
 |CIKM'14 | 21% (175/838) | - |
 |CIKM'15 | 26% (165/846) | - |
 |CIKM'16 | 23% (160/701) | - |
+|CIKM'17 | 20% (171/855) | - |
 |SDM'14 | 29% (120/389) | - |
 |SDM'15 | 22% | - |
 |SDM'16 | 25.9% | - |
@@ -50,6 +52,7 @@ Statistics of acceptance rate for AI conference
 |AAAI'15 | 26.7% (531/1991) | - |
 |AAAI'16 | 25.8% (549/2132) | - |
 |AAAI'17 | 24.6% (638/2590) | - |
+|AAAI'18 | 24.6% (933/3800) | - |
 |IJCAI'13 | 28% (413/1473) | - |
 |IJCAI'15 | 28.6% (572/1996) | - |
 |IJCAI'16 | 24% (551/2294) | - |
@@ -69,7 +72,7 @@ Statistics of acceptance rate for AI conference
 |UAI'2014 | 32% (94/292) | - |
 |UAI'2015 | 34% (99/291) | - |
 |UAI'2016 | 31% (85/275) | - |
-|UAI'2017 | TBD | - |
+|UAI'2017 | 31% (87/282) | - |
 |AISTATS'2014 | 35.8% (120/335) | - |
 |AISTATS'2015 | 28.7% (127/442) | - |
 |AISTATS'2016 | 30.7% (165/537) | - |
