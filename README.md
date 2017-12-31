@@ -84,6 +84,8 @@ Statistics of acceptance rate for AI conference
 |ICCV'2013 | 27.9% (454/1629) | - |
 |ICCV'2015 | 30.9% (525/1698) | - |
 |ICCV'2017 | 29.0% (621/2143) | - |
+|ICASSP'2014| 48% (1709/3500+) | - |
+|ICASSP'2016| 47% (1265/3500+) | - |
 
 Note: For **KDD** and **COLING**, we just consider the papers accepted as oral or poster. For **ICDM**, submissions of short paper and those of long paper are in the same session and the decisions of the paper type are made according to its quality.
 
