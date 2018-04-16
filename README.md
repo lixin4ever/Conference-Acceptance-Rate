@@ -51,6 +51,7 @@ Statistics of acceptance rate for AI conference
 |WWW'15 | 14% (131/929) | - |
 |WWW'16 | 16% (115/727) | - |
 |WWW'17 | 17% (164/966) | - |
+|WWW'18 | 15% (171/1140) | - |
 |AAAI'14 | 28% | - |
 |AAAI'15 | 26.7% (531/1991) | - |
 |AAAI'16 | 25.8% (549/2132) | - |
@@ -72,7 +73,7 @@ Statistics of acceptance rate for AI conference
 |ICLR'2015 | - | - |
 |ICLR'2016 | - | - |
 |ICLR'2017 | 38.7% (196/507) | - |
-|ICLR'2017 | 2.3% (oral, 23/981), 32% (poster, 314/981) | - |
+|ICLR'2018 | 2.3% (oral, 23/981), 32% (poster, 314/981) | - |
 |UAI'2014 | 32% (94/292) | - |
 |UAI'2015 | 34% (99/291) | - |
 |UAI'2016 | 31% (85/275) | - |
