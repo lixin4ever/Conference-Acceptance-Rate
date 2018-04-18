@@ -61,6 +61,7 @@ Statistics of acceptance rate for AI conference
 |IJCAI'15 | 28.6% (572/1996) | - |
 |IJCAI'16 | 24% (551/2294) | - |
 |IJCAI'17 | 26% (660/2540) | - |
+|IJCAI'18 | 20.5% (710/3470) | - |
 |ICML'2014 | 15% (Cycle I), 22% (Cycle II) | - |
 |ICML'2015 | 26% (270/1037) | - |
 |ICML'2016 | 24% (322/?) | - |
