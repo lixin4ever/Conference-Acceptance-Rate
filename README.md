@@ -21,6 +21,7 @@ Statistics of acceptance rate for AI conference
 |COLING'12 | 27% (311/1000+) | - |
 |COLING'14 | 31% (217/705) | - |
 |COLING'16 | 32.4% (337/1039) | - |
+|COLING'18 | 37.4% (332/888) | - |
 |KDD'14 | 14.6% (151/1036) | - |
 |KDD'15 | 19.5% (160/819) | - |
 |KDD'16 | 13.7% (142/1115) | - |
