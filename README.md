@@ -86,7 +86,8 @@ Statistics of acceptance rate for AI conference
 |AISTATS'2014 | 35.8% (120/335) | - |
 |AISTATS'2015 | 28.7% (127/442) | - |
 |AISTATS'2016 | 30.7% (165/537) | - |
-|AISTATS'2017 | ? (167/?) | - |
+|AISTATS'2017 | 31.7% (167/?) | - |
+|AISTATS'2018| ? | - |
 |CVPR'2014 | 29.9% (540/1807) | - |
 |CVPR'2015 | 28.3% (602/2123) | - |
 |CVPR'2016 | 29.9% (643/2145) | - |
