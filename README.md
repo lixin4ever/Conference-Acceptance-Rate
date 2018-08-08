@@ -40,6 +40,7 @@ Statistics of acceptance rate for AI conference
 |CIKM'15 | 26% (165/846) | - |
 |CIKM'16 | 23% (160/701) | - |
 |CIKM'17 | 20% (171/855) | - |
+|CIKM'18| 17% (147/862) | - |
 |SDM'14 | 29% (120/389) | - |
 |SDM'15 | 22% | - |
 |SDM'16 | 25.9% | - |
