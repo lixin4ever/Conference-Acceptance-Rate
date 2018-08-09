@@ -109,7 +109,7 @@ Statistics of acceptance rate for AI conference
 |ICASSP'2017| 52% (1220/2518) | - |
 |ICASSP'2018| 49.7% (1406/2929) | - |
 
-Note: For **KDD** and **COLING**, we just consider the papers accepted as oral or poster. For **ICDM**, submissions of short paper and those of long paper are in the same session and the decisions of the paper type are made according to its quality.
+Note: For **KDD** and **WWW** (now renamed to **the Web Conference**), only the papers from the research track are counted. For **ICDM**, submissions of short paper and those of long paper are in the same session and the decision of the paper type is made according to its quality.
 
 
 
