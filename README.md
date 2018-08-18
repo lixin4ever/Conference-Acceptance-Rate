@@ -1,4 +1,4 @@
-Statistics of acceptance rate for AI conference
+Statistics of acceptance rate for the main AI conferences
 =====
 | Conference        | Long Paper           | Short Paper  |
 | ------------- |:-------------:| -----:|
