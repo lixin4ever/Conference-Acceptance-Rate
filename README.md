@@ -76,6 +76,7 @@ Statistics of acceptance rate for the main AI conferences
 |NIPS'2015 | 21% (403/1838) | - |
 |NIPS'2016 | 22.7% (571/?) | - |
 |NIPS'2017 | 20.9% (678/3240) | - |
+|NIPS'2018 | 0.6% (oral, 30/4856), 3.5% (spotlight, 168/4856) 20.8% (1011/4856) | - |
 |ICLR'2014 | - | - |
 |ICLR'2015 | - | - |
 |ICLR'2016 | - | - |
