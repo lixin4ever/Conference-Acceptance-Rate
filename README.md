@@ -100,7 +100,7 @@ Statistics of acceptance rate for the main AI conferences
 |ICCV'2015 | 30.9% (525/1698) | - |
 |ICCV'2017 | 29.0% (621/2143) | - |
 |ECCV'2014 | 27.9% (363/1359) | - |
-|ECCV'2016 | 26.6% (415/1561) | - |
+|ECCV'2016 | 26.6% (415/1561) (28 orals, 45 spotlights, and 342 posters) | - |
 |ECCV'2018 | 31.8% (776/2439) (59 orals and 717 posters) | - |
 |INTERSPEECH'2014| - | - |
 |INTERSPEECH'2015| 51% (~743/1458) | - |
