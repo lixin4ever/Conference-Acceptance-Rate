@@ -75,12 +75,12 @@ Statistics of acceptance rate for the main AI conferences
 |NIPS'2014 | 24.7% (414/1678) | - |
 |NIPS'2015 | 21% (403/1838) | - |
 |NIPS'2016 | 22.7% (571/?) | - |
-|NIPS'2017 | 20.9% (678/3240) | - |
+|NIPS'2017 | 20.9% (678/3240) (40 orals, 112 spotlights and 526 posters) | - |
 |NIPS'2018 | 20.8% (1011/4856) (30 orals, 168 spotlights and 813 posters) | - |
 |ICLR'2014 | - | - |
 |ICLR'2015 | - | - |
 |ICLR'2016 | - | - |
-|ICLR'2017 | 38.7% (196/507) | - |
+|ICLR'2017 | 39.1% (198/507) (15 orals and 183 posters) | - |
 |ICLR'2018 | 32% (314/981) (23 orals and 291 posters) | - |
 |UAI'2014 | 32% (94/292) | - |
 |UAI'2015 | 34% (99/291) | - |
@@ -98,7 +98,7 @@ Statistics of acceptance rate for the main AI conferences
 |CVPR'2018 | 29.6% (979/3303) | - |
 |ICCV'2013 | 27.9% (454/1629) | - |
 |ICCV'2015 | 30.9% (525/1698) | - |
-|ICCV'2017 | 29.0% (621/2143) | - |
+|ICCV'2017 | 29.0% (621/2143) (45 orals, 56 spotlights and 520 posters) | - |
 |ECCV'2014 | 27.9% (363/1444) (38 orals and 325 posters) | - |
 |ECCV'2016 | 26.6% (415/1561) (28 orals, 45 spotlights, and 342 posters) | - |
 |ECCV'2018 | 31.8% (776/2439) (59 orals and 717 posters) | - |
