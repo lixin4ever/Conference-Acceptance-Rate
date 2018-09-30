@@ -106,6 +106,7 @@ Statistics of acceptance rate for the main AI conferences
 |INTERSPEECH'2015| 51% (~743/1458) | - |
 |INTERSPEECH'2016| 50.5% (779/1541) | - |
 |INTERSPEECH'2017| 52% (799/1582) | - |
+|INTERSPEECH'2018| 54% (749/?) | - |
 |ICASSP'2014| 48% (1709/3500) | - |
 |ICASSP'2015| 52% (?/?) | - |
 |ICASSP'2016| 47% (1265/2682) | - |
