@@ -62,6 +62,7 @@ Statistics of acceptance rate for the main AI conferences
 |AAAI'16 | 25.8% (549/2132) | - |
 |AAAI'17 | 24.6% (638/2590) | - |
 |AAAI'18 | 24.6% (933/3800) | - |
+|AAAI'19 | 16.2% (1150/7095) | - |
 |IJCAI'13 | 28% (413/1473) | - |
 |IJCAI'15 | 28.6% (572/1996) | - |
 |IJCAI'16 | 24% (551/2294) | - |
