@@ -49,6 +49,7 @@ Statistics of acceptance rate for the main AI conferences
 |ICLR'16 | - | - |
 |ICLR'17 | 39.1% (198/507) (15 orals and 183 posters) | - |
 |ICLR'18 | 32.0% (314/981) (23 orals and 291 posters) | - |
+|ICLR'19| 31.4% (500/1591) (24 orals and 476 posters) | - |
 |COLT'14 | 32.1% (45/140) | - |
 |COLT'15 | 34.8% (62/178) | - |
 |COLT'16 | 26.1% (53/203) | - |
