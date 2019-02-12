@@ -90,6 +90,7 @@ Statistics of acceptance rate for the main AI conferences
 |WWW'16 | 16.0% (115/727) | - |
 |WWW'17 | 17.0% (164/966) | - |
 |WWW'18 | 15.0% (171/1140) | - |
+|WWW'19 | - | - |
 |ICDM'14 | 9.77% (71/727) | 9.76% (71/727) |
 |ICDM'15 | 8.4% (68/807) | 9.7% (78/807) |
 |ICDM'16 | 8.6% (78/904) | 11.0% (100/904) |
@@ -99,7 +100,8 @@ Statistics of acceptance rate for the main AI conferences
 |WSDM'15 | 16.4% (39/238) | - |
 |WSDM'16 | 18.2% (67/368) | - |
 |WSDM'17 | 15.8% (80/505) | - |
-|WSDM'18 | 16.3% (84/514) | - |
+|WSDM'18 | 16.1% (84/514) | - |
+|WSDM'19 | 16.4% (84/511) | - |
 |CIKM'14 | 21.0% (175/838) | - |
 |CIKM'15 | 26.0% (165/846) | - |
 |CIKM'16 | 23.0% (160/701) | - |
@@ -120,6 +122,7 @@ Statistics of acceptance rate for the main AI conferences
 |ICASSP'16| 47.0% (1265/2682) | - |
 |ICASSP'17| 52.0% (1220/2518) | - |
 |ICASSP'18| 49.7% (1406/2929) | - |
+|ICASSP'19| - | - |
 
 
 Note: For **KDD** and **WWW** (now renamed to **the Web Conference**), only the papers from the research track are counted. For **ICDM**, submissions of short paper and those of long paper are in the same session and the decision of the paper type is made according to its quality.
