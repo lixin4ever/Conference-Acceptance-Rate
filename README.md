@@ -61,6 +61,7 @@ Statistics of acceptance rate for the main AI conferences
 |UAI'15 | 34.0% (99/291) | - |
 |UAI'16 | 31.0% (85/275) | - |
 |UAI'17 | 31.0% (87/282) | - |
+|UAI'18 | 30.8% (104/337) | - |
 |AISTATS'14 | 35.8% (120/335) | - |
 |AISTATS'15 | 28.7% (127/442) | - |
 |AISTATS'16 | 30.7% (165/537) | - |
