@@ -41,6 +41,7 @@ Statistics of acceptance rate for the main AI conferences
 |ICML'16 | 24.0% (322/?) | - |
 |ICML'17 | 25.9% (434/1676) | - |
 |ICML'18 | 25.1% (621/2473) | - |
+|ICML'19 | 22.6% (773/3424) | - |
 |NIPS'14 | 24.7% (414/1678) | - |
 |NIPS'15 | 21.9% (403/1838) | - |
 |NIPS'16 | 23.6% (569/2403) | - |
