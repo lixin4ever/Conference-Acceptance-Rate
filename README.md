@@ -84,7 +84,7 @@ Statistics of acceptance rate for the main AI conferences
 |KDD'15 | 19.5% (160/819) | - |
 |KDD'16 | 13.7% (142/1115) | - |
 |KDD'17 | 17.4% (130/748) | - |
-|KDD'18 | 18.4% (181/983) (74 orals and 107 posters) | - |
+|KDD'18 | 18.4% (181/983) (107 orals and 74 posters) | - |
 |KDD'19 | 14.2% (170/1200) (110 orals and 60 posters) | - |
 |SIGIR'14 | 21.0% (82/387) | 40.0% (104/263) |
 |SIGIR'15 | 20.0% (70/351) | 31.3% (79/252) |
