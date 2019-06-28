@@ -30,13 +30,14 @@ Statistics of acceptance rate for the main AI conferences
 |CVPR'16 | 29.9% (643/2145) (83 orals, 123 spotlights and 437 posters) | - |
 |CVPR'17 | 29.9% (783/2620) (71 orals, 144 spotlights and 568 posters) | - |
 |CVPR'18 | 29.6% (979/3303) (70 orals, 224 spotlights and 685 posters) | - |
-|CVPR'19 | 25.2% (1300/5160) (288 short orals and 1300 posters)| - |
+|CVPR'19 | 25.0% (1294/5160) (288 short orals and 1294 posters)| - |
 |ICCV'13 | 27.9% (454/1629) (41 orals and 413 posters) | - |
 |ICCV'15 | 30.9% (525/1698) | - |
 |ICCV'17 | 29.0% (621/2143) (45 orals, 56 spotlights and 520 posters) | - |
 |ECCV'14 | 27.9% (363/1444) (38 orals and 325 posters) | - |
 |ECCV'16 | 26.6% (415/1561) (28 orals, 45 spotlights, and 342 posters) | - |
 |ECCV'18 | 31.8% (776/2439) (59 orals and 717 posters) | - |
+|WACV'19 | 39.0% (230/589) | - |
 |ICML'14 | 15.0% (Cycle I), 22.0% (Cycle II) | - |
 |ICML'15 | 26.0% (270/1037) | - |
 |ICML'16 | 24.0% (322/?) | - |
