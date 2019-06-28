@@ -37,7 +37,6 @@ Statistics of acceptance rate for the main AI conferences
 |ECCV'14 | 27.9% (363/1444) (38 orals and 325 posters) | - |
 |ECCV'16 | 26.6% (415/1561) (28 orals, 45 spotlights, and 342 posters) | - |
 |ECCV'18 | 31.8% (776/2439) (59 orals and 717 posters) | - |
-|WACV'19 | 39.0% (230/589) | - |
 |ICML'14 | 15.0% (Cycle I), 22.0% (Cycle II) | - |
 |ICML'15 | 26.0% (270/1037) | - |
 |ICML'16 | 24.0% (322/?) | - |
