@@ -50,7 +50,7 @@ Statistics of acceptance rate for the main AI conferences
 |NeurIPS'16 | 23.6% (569/2403) | - |
 |NeurIPS'17 | 20.9% (678/3240) (40 orals, 112 spotlights and 526 posters) | - |
 |NeurIPS'18 | 20.8% (1011/4856) (30 orals, 168 spotlights and 813 posters) | - |
-|NeurIPS'19| 21.1% (1428/6743) (34 orals, 164 spotlights, 1228 posters) | - |
+|NeurIPS'19| 21.1% (1428/6743) (36 orals, 164 spotlights, 1228 posters) | - |
 |ICLR'14 | - | - |
 |ICLR'15 | - | - |
 |ICLR'16 | - | - |
