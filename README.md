@@ -98,12 +98,12 @@ Statistics of acceptance rate for the main AI conferences
 |SIGIR'17 | 22.0% (78/362) | 30.0% (121/398) |
 |SIGIR'18 | 21.0% (86/409) | 30.0% (98/327) |
 |SIGIR'19 | 19.7% (84/426) | 24.4% (108/443) |
-|WWW'14 | 13.0% (84/645) | - |
-|WWW'15 | 14.0% (131/929) | - |
-|WWW'16 | 16.0% (115/727) | - |
-|WWW'17 | 17.0% (164/966) | - |
-|WWW'18 | 15.0% (171/1140) | - |
-|WWW'19 | 18.0% (225/1247) | - |
+|TheWebConf'14 | 13.0% (84/645) | - |
+|TheWebConf'15 | 14.0% (131/929) | - |
+|TheWebConf'16 | 16.0% (115/727) | - |
+|TheWebConf'17 | 17.0% (164/966) | - |
+|TheWebConf'18 | 15.0% (171/1140) | - |
+|TheWebConf'19 | 18.0% (225/1247) | - |
 |WSDM'14 | 18.0% (64/355) | - |
 |WSDM'15 | 16.4% (39/238) | - |
 |WSDM'16 | 18.2% (67/368) | - |
@@ -142,5 +142,5 @@ Statistics of acceptance rate for the main AI conferences
 
 Note: 
 
-1. For **KDD** and **WWW** (now renamed to **the Web Conference**), only the papers from the research track are counted.  
+1. For **KDD** and **TheWebConf** (formerly known as **WWW**), only the papers from the research track are counted.  
 2. For **ICDM**, submissions of short paper and those of long paper are in the same session and the decision of the paper type is made according to its quality.
