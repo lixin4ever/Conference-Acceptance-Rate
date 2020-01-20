@@ -146,5 +146,5 @@ Statistics of acceptance rate for the main AI conferences
 
 Note: 
 
-1. For **KDD** and **TheWebConf** (formerly known as **WWW**), only the papers from the research track are counted.  
+1. For **KDD** and **TheWebConf** (formerly known as **WWW**), only the papers from research track are counted.  
 2. For **ICDM**, submissions of short paper and those of long paper are in the same session and the decision of the paper type is made according to its quality.
