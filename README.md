@@ -82,7 +82,7 @@ Statistics of acceptance rate for the main AI conferences
 |IJCAI'19 | 17.9% (850/4752) | - |
 |ECAI'14 | 28.1% (158/562) | - |
 |ECAI'16 | 27.0% (177/656) | - |
-|Joint IJCAI-ECAI'18 | 20.5% (710/3470) | - |
+|ECAI'18 (Joint IJCAI-ECAI) | 20.5% (710/3470) | - |
 |ECAI'20 | 26.8% (365/1363) | - |
 ||<div align=center>**AI and Statistics**</div>||
 |UAI'14 | 32.0% (94/292) | - |
@@ -158,5 +158,5 @@ Statistics of acceptance rate for the main AI conferences
 
 Note: 
 
-1. For **KDD** and **TheWebConf** (formerly known as **WWW**), only the papers from the research track are counted.  
+1. For **KDD** and **TheWebConf** (formerly known as **WWW**), only the papers from research track are counted.  
 2. For **ICDM**, submissions of short paper and those of long paper are in the same session and the decision of the paper type is made according to its quality.
