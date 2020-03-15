@@ -3,7 +3,7 @@ Statistics of acceptance rate for the main AI conferences
 ### Natural Language Processing and Computational Linguistics
 
 | Conference        | Long Paper           | Short Paper  |
-| ------------- |:-------------:| -----:|
+| ------------- | :------------- | :----- |
 |ACL'14 | 26.2% (146/572) | 26.1% (139/551) |
 |ACL'15 | 25.0% (173/692) | 22.4% (145/648) |
 |ACL'16 | 28.0% (231/825) | 21.0% (97/463) |
@@ -29,7 +29,7 @@ Statistics of acceptance rate for the main AI conferences
 ### Computer Vision and Pattern Recognition
 
 | Conference        | Long Paper           | Short Paper  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------|:-----|
 |CVPR'14 | 29.9% (540/1807) (104 orals and 436 posters) | - |
 |CVPR'15 | 28.3% (602/2123) (71 orals and 531 posters) | - |
 |CVPR'16 | 29.9% (643/2145) (83 orals, 123 spotlights and 437 posters) | - |
@@ -49,7 +49,7 @@ Statistics of acceptance rate for the main AI conferences
 ### Machine Learning and Learning Theory
 
 | Conference        | Long Paper           | Short Paper  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------|:-----|
 |ICML'14 | 15.0% (Cycle I), 22.0% (Cycle II) | - |
 |ICML'15 | 26.0% (270/1037) | - |
 |ICML'16 | 24.0% (322/?) | - |
@@ -91,7 +91,7 @@ Statistics of acceptance rate for the main AI conferences
 ### Artificial Intelligence
 
 | Conference        | Long Paper           | Short Paper  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------|:-----|
 |AAAI'14 | 28.0% (398/1406) | - |
 |AAAI'15 | 26.7% (531/1991) | - |
 |AAAI'16 | 25.8% (549/2132) | - |
@@ -109,7 +109,7 @@ Statistics of acceptance rate for the main AI conferences
 ### Data Mining and Information Retrieval
 
 | Conference        | Long Paper           | Short Paper  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------|:-----|
 |KDD'14 | 14.6% (151/1036) | - |
 |KDD'15 | 19.5% (160/819) | - |
 |KDD'16 | 13.7% (142/1115) | - |
@@ -158,7 +158,7 @@ Statistics of acceptance rate for the main AI conferences
 ### Speech and Signal Processing
 
 | Conference        | Long Paper           | Short Paper  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------|:-----|
 |INTERSPEECH'14| - | - |
 |INTERSPEECH'15| 51.0% (~743/1458) | - |
 |INTERSPEECH'16| 50.5% (779/1541) | - |
