@@ -26,7 +26,7 @@ Statistics of acceptance rate for the main AI conferences
 |COLING'16 | 32.4% (337/1039) | - |
 |COLING'18 | 37.4% (332/888) | - |
 
-### Computer Vision
+### Computer Vision and Pattern Recognition
 
 | Conference        | Long Paper           | Short Paper  |
 | ------------- |:-------------:| -----:|
