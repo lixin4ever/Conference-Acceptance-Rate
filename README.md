@@ -1,5 +1,7 @@
 Statistics of acceptance rate for the main AI conferences
-=====
+===== 
+### Natural Language Processing and Computational Linguistics
+
 | Conference        | Long Paper           | Short Paper  |
 | ------------- |:-------------:| -----:|
 |ACL'14 | 26.2% (146/572) | 26.1% (139/551) |
@@ -23,6 +25,11 @@ Statistics of acceptance rate for the main AI conferences
 |COLING'14 | 30.8% (217/705) | - |
 |COLING'16 | 32.4% (337/1039) | - |
 |COLING'18 | 37.4% (332/888) | - |
+
+### Computer Vision
+
+| Conference        | Long Paper           | Short Paper  |
+| ------------- |:-------------:| -----:|
 |CVPR'14 | 29.9% (540/1807) (104 orals and 436 posters) | - |
 |CVPR'15 | 28.3% (602/2123) (71 orals and 531 posters) | - |
 |CVPR'16 | 29.9% (643/2145) (83 orals, 123 spotlights and 437 posters) | - |
@@ -37,6 +44,12 @@ Statistics of acceptance rate for the main AI conferences
 |ECCV'14 | 27.9% (363/1444) (38 orals and 325 posters) | - |
 |ECCV'16 | 26.6% (415/1561) (28 orals, 45 spotlights, and 342 posters) | - |
 |ECCV'18 | 31.8% (776/2439) (59 orals and 717 posters) | - |
+
+
+### Machine Learning and Learning Theory
+
+| Conference        | Long Paper           | Short Paper  |
+| ------------- |:-------------:| -----:|
 |ICML'14 | 15.0% (Cycle I), 22.0% (Cycle II) | - |
 |ICML'15 | 26.0% (270/1037) | - |
 |ICML'16 | 24.0% (322/?) | - |
@@ -73,6 +86,12 @@ Statistics of acceptance rate for the main AI conferences
 |AISTATS'17 | 31.7% (168/530) | - |
 |AISTATS'18| 33.2% (214/645) | - |
 |AISTATS'19| 32.4% (360/1111) | - |
+
+
+### Artificial Intelligence
+
+| Conference        | Long Paper           | Short Paper  |
+| ------------- |:-------------:| -----:|
 |AAAI'14 | 28.0% (398/1406) | - |
 |AAAI'15 | 26.7% (531/1991) | - |
 |AAAI'16 | 25.8% (549/2132) | - |
@@ -86,6 +105,11 @@ Statistics of acceptance rate for the main AI conferences
 |IJCAI'17 | 26.0% (660/2540) | - |
 |IJCAI'18 | 20.5% (710/3470) | - |
 |IJCAI'19 | 17.9% (850/4752) | - |
+
+### Informatial Retrieval and Data Mining 
+
+| Conference        | Long Paper           | Short Paper  |
+| ------------- |:-------------:| -----:|
 |KDD'14 | 14.6% (151/1036) | - |
 |KDD'15 | 19.5% (160/819) | - |
 |KDD'16 | 13.7% (142/1115) | - |
@@ -129,6 +153,12 @@ Statistics of acceptance rate for the main AI conferences
 |RecSys'17| 20.8% (26/125) | 16.4% (20/122) |
 |RecSys'18| 17.7% (32/181) | - |
 |RecSys'19| 19.0% (36/189) | - |
+
+
+### Speech and Signal Processing
+
+| Conference        | Long Paper           | Short Paper  |
+| ------------- |:-------------:| -----:|
 |INTERSPEECH'14| - | - |
 |INTERSPEECH'15| 51.0% (~743/1458) | - |
 |INTERSPEECH'16| 50.5% (779/1541) | - |
