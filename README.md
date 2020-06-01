@@ -57,6 +57,7 @@ Statistics of acceptance rate for the main AI conferences
 |ICML'17 | 25.9% (434/1676) | - |
 |ICML'18 | 25.1% (621/2473) | - |
 |ICML'19 | 22.6% (773/3424) | - |
+|ICML'20 | 21.8% (1088/4990) | - |
 |NeurIPS'14 | 24.7% (414/1678) | - |
 |NeurIPS'15 | 21.9% (403/1838) | - |
 |NeurIPS'16 | 23.6% (569/2403) | - |
