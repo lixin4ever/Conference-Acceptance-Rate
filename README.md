@@ -43,9 +43,9 @@ Statistics of acceptance rate for the main AI conferences
 |ICCV'17 | 29.0% (621/2143) (45 orals, 56 spotlights and 520 posters) | - |
 |ICCV'19 | 25.0% (1077/4304) (187 short orals and 1077 posters)| - |
 |ECCV'14 | 27.9% (363/1444) (38 orals and 325 posters) | - |
-|ECCV'16 | 26.6% (415/1561) (28 orals, 45 spotlights, and 342 posters) | - |
+|ECCV'16 | 26.6% (415/1561) (28 orals, 45 spotlights and 342 posters) | - |
 |ECCV'18 | 31.8% (776/2439) (59 orals and 717 posters) | - |
-|ECCV'20| 27.1% (1361/5025) | - |
+|ECCV'20 | 27.1% (1361/5025) (104 orals, 161 spotlights and 1096 posters) | - |
 
 
 ### Machine Learning and Learning Theory
