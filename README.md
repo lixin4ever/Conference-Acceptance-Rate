@@ -175,7 +175,7 @@ Statistics of acceptance rate for the main AI conferences
 |ICASSP'15| 52.0% (1207/2322) | - |
 |ICASSP'16| 47.0% (1265/2682) | - |
 |ICASSP'17| 52.0% (1220/2518) | - |
-|ICASSP'18| 49.7% (1406/2929) | - |
+|ICASSP'18| 49.7% (1406/2829) | - |
 |ICASSP'19| 46.5% (1774/3815) | - |
 
 
