@@ -26,6 +26,7 @@ Statistics of acceptance rate for the main AI conferences
 |COLING'14 | 30.8% (217/705) | - |
 |COLING'16 | 32.4% (337/1039) | - |
 |COLING'18 | 37.4% (332/888) | - |
+|COLING'20| 33.4% (622/1862) | - |
 
 ### Computer Vision and Pattern Recognition
 
