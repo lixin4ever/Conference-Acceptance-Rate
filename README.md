@@ -180,7 +180,7 @@ Statistics of acceptance rate for the main AI conferences
 |INTERSPEECH'17| 52.0% (799/1582) | - |
 |INTERSPEECH'18| 54.3% (749/1320) | - |
 |INTERSPEECH'19| 49.3% (914/1855) | - |
-|INTERSPEECH'20| ~50% (?/?) | - |
+|INTERSPEECH'20| ~47% (?/?) | - |
 |ICASSP'14| 48.0% (1709/3500) | - |
 |ICASSP'15| 52.0% (1207/2322) | - |
 |ICASSP'16| 47.0% (1265/2682) | - |
