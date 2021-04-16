@@ -139,6 +139,7 @@ Statistics of acceptance rate for the main AI conferences
 |SIGIR'18 | 21.0% (86/409) | 30.0% (98/327) |
 |SIGIR'19 | 19.7% (84/426) | 24.4% (108/443) |
 |SIGIR'20 | 26.5% (147/555) | 30.2% (153/507) |
+|SIGIR'21 | 21.0% (151/720) | 27.6% (145/526) |
 |TheWebConf'14 | 13.0% (84/645) | - |
 |TheWebConf'15 | 14.0% (131/929) | - |
 |TheWebConf'16 | 16.0% (115/727) | - |
