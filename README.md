@@ -24,6 +24,7 @@ Statistics of acceptance rate for the main AI conferences
 |NAACL-HLT'16 | 25.3% (100/396) | 28.9% (82/284) |
 |NAACL-HLT'18 | 32.0% (207/647) | 29.4% (125/425) |
 |NAACL-HLT'19 | 26.3% (281/1067) | 21.3% (142/666) |
+|NAACL-HLT'21 | ~28% (350/?) | ~23% (127/?) |
 |COLING'12 | 27% (311/1000+) | - |
 |COLING'14 | 30.8% (217/705) | - |
 |COLING'16 | 32.4% (337/1039) | - |
