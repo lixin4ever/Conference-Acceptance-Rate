@@ -1,5 +1,8 @@
 Statistics of acceptance rate for the main AI conferences
 ===== 
+
+![](conference_trends.png)
+
 ### Natural Language Processing and Computational Linguistics
 
 | Conference        | Long Paper           | Short Paper  |
