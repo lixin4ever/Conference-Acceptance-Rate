@@ -157,6 +157,7 @@ Statistics of acceptance rate for the main AI conferences
 |TheWebConf'19 | 18.0% (225/1247) | 19.9% (72/361) |
 |TheWebConf'20 | 19.2% (217/1129) | 24.7% (98/397) |
 |TheWebConf'21 | 20.6% (357/1736) | - |
+|TheWebConf'22 | 17.7% (323/1822) | - |
 |WSDM'14 | 18.0% (64/355) | - |
 |WSDM'15 | 16.4% (39/238) | - |
 |WSDM'16 | 18.2% (67/368) | - |
