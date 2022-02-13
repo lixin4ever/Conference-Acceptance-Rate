@@ -84,6 +84,7 @@ Statistics of acceptance rate for the main AI conferences
 |ICLR'19| 31.4% (500/1591) (24 orals and 476 posters) | - |
 |ICLR'20| 26.5% (687/2594) (48 orals, 107 spotlights and 532 posters) | - |
 |ICLR'21| 28.7% (860/2997) (53 orals, 114 spotlights and 693 posters) | - |
+|ICLR'22| 32.9% (1095/3328) (54 orals, 176 spotlights and 865 posters) | - |
 |COLT'14 | 32.1% (45/140) | - |
 |COLT'15 | 34.8% (62/178) | - |
 |COLT'16 | 26.1% (53/203) | - |
