@@ -50,6 +50,7 @@ Statistics of acceptance rate for the main AI conferences
 |CVPR'19 | 25.0% (1294/5160) (288 short orals and 1294 posters)| - |
 |CVPR'20 | 22.1% (1470/6656) | - |
 |CVPR'21 | 23.7% (1661/7015) (295 orals and 1366 posters) | - |
+|CVPR'22 | 25.3% (2067/8161) | - |
 |ICCV'13 | 27.9% (454/1629) (41 orals and 413 posters) | - |
 |ICCV'15 | 30.9% (525/1698) | - |
 |ICCV'17 | 29.0% (621/2143) (45 orals, 56 spotlights and 520 posters) | - |
