@@ -73,6 +73,7 @@ Statistics of acceptance rate for the main AI conferences
 |ICML'19 | 22.6% (773/3424) | - |
 |ICML'20 | 21.8% (1088/4990) | - |
 |ICML'21 | 21.5% (1184/5513) (166 long talks, 1018 short talks) | - |
+|ICML'22 | 21.9% (1235/5630) (118 long talks, 1117 short talks) | - |
 |NeurIPS'14 | 24.7% (414/1678) | - |
 |NeurIPS'15 | 21.9% (403/1838) | - |
 |NeurIPS'16 | 23.6% (569/2403) | - |
@@ -104,6 +105,7 @@ Statistics of acceptance rate for the main AI conferences
 |UAI'18 | 30.8% (104/337) | - |
 |UAI'19 | 26.0%  (118/450) | - |
 |UAI'20 | 27.5%  (142/515) | - |
+|UAI'22 | 32.3%  (230/712) (36 orals and 194 posters) | - |
 |AISTATS'14 | 35.8% (120/335) | - |
 |AISTATS'15 | 28.7% (127/442) | - |
 |AISTATS'16 | 30.7% (165/537) | - |
