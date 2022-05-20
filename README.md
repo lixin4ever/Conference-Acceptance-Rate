@@ -114,6 +114,7 @@ Statistics of acceptance rate for the main AI conferences
 |AISTATS'19| 32.4% (360/1111) | - |
 |AISTATS'20| - | - |
 |AISTATS'21| 29.8% (455/1527) (48 orals)  | - |
+|AutoML-Conf'22| 19.2% (20/104)  | - |
 
 
 ### Artificial Intelligence
