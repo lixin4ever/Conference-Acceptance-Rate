@@ -138,6 +138,7 @@ Statistics of acceptance rate for the main AI conferences
 |IJCAI'19 | 17.9% (850/4752) | - |
 |IJCAI'20 | 12.6% (592/4717) | - |
 |IJCAI'21 | 13.9% (587/4204) | - |
+|IJCAI'22 | 14.9% (679/4535) | - |
 
 ### Data Mining and Information Retrieval
 
