@@ -105,6 +105,7 @@ Statistics of acceptance rate for the main AI conferences
 |UAI'18 | 30.8% (104/337) | - |
 |UAI'19 | 26.0%  (118/450) | - |
 |UAI'20 | 27.5%  (142/515) | - |
+|UAI'21 | 26.3%  (205/777) | - |
 |UAI'22 | 32.3%  (230/712) (36 orals and 194 posters) | - |
 |AISTATS'14 | 35.8% (120/335) | - |
 |AISTATS'15 | 28.7% (127/442) | - |
@@ -114,8 +115,8 @@ Statistics of acceptance rate for the main AI conferences
 |AISTATS'19| 32.4% (360/1111) | - |
 |AISTATS'20| - | - |
 |AISTATS'21| 29.8% (455/1527) (48 orals)  | - |
+|AISTATS'22| 29.2% (493/1685) | - |
 |AutoML-Conf'22| 19.2% (20/104)  | - |
-
 
 ### Artificial Intelligence
 
@@ -138,6 +139,7 @@ Statistics of acceptance rate for the main AI conferences
 |IJCAI'19 | 17.9% (850/4752) | - |
 |IJCAI'20 | 12.6% (592/4717) | - |
 |IJCAI'21 | 13.9% (587/4204) | - |
+|IJCAI'22 | 14.9% (679/4535) | - |
 
 ### Data Mining and Information Retrieval
 
