@@ -32,11 +32,13 @@ Statistics of acceptance rate for the main AI conferences
 |NAACL-HLT'18 | 32.0% (207/647) | 29.4% (125/425) |
 |NAACL-HLT'19 | 26.3% (281/1067) | 21.3% (142/666) |
 |NAACL-HLT'21 | 29.2% (366/1254) | 22.6% (123/544) |
+|NAACL-HLT'22 | ? (358/?) | ? (84/?) |
 |COLING'12 | 27% (311/1000+) | - |
 |COLING'14 | 30.8% (217/705) | - |
 |COLING'16 | 32.4% (337/1039) | - |
 |COLING'18 | 37.4% (332/888) | - |
 |COLING'20| 33.4% (622/1862) | - |
+|COLING'22| 33.4% (522/1563) | 24.2% (112/463) |  
 
 ### Computer Vision and Pattern Recognition
 
