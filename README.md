@@ -1,4 +1,4 @@
-Statistics of acceptance rate for the main AI conferences
+Acceptance rates for the ~~main~~ top-tier AI-related conferences
 ===== 
 
 ![](conference_trends.png)
