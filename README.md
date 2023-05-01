@@ -16,6 +16,8 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |ACL'20 | 25.4% (571/2244) | 17.6% (208/1185) |
 |ACL'21 | 24.5% (571/2327) | 13.6% (139/1023) |
 |ACL'21 Findings | 14.6% (339/2327) | 11.5% (118/1023) |
+|ACL'22 | ? (604/?) | ? (97/?) |
+|ACL'22 Findings | ? (361/?) | ? (361/?) |
 |EMNLP'14 | 30.4% (155/510) | 27.8% (70/252) |
 |EMNLP'15 | 26.2% (157/600) | 22.1% (155/700) |
 |EMNLP'16 | 25.8% (177/687) | 21.8% (87/400) |
@@ -98,6 +100,7 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |ICLR'20| 26.5% (687/2594) (48 orals, 107 spotlights and 532 posters) | - |
 |ICLR'21| 28.7% (860/2997) (53 orals, 114 spotlights and 693 posters) | - |
 |ICLR'22| 32.9% (1095/3328) (54 orals, 176 spotlights and 865 posters) | - |
+|ICLR'23| 32.0% (1574/4956) (91 orals, 280 spotlights and 1203 posters) | - |
 |COLT'14 | 32.1% (45/140) | - |
 |COLT'15 | 34.8% (62/178) | - |
 |COLT'16 | 26.1% (53/203) | - |
