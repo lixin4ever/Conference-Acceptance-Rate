@@ -117,6 +117,7 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |UAI'20 | 27.5%  (142/515) | - |
 |UAI'21 | 26.3%  (205/777) | - |
 |UAI'22 | 32.3%  (230/712) (36 orals and 194 posters) | - |
+|UAI'23 | 31.2%  (243/778) | - |
 |AISTATS'14 | 35.8% (120/335) | - |
 |AISTATS'15 | 28.7% (127/442) | - |
 |AISTATS'16 | 30.7% (165/537) | - |
