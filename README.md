@@ -244,7 +244,7 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |ICASSP'21| 48.0% (1734/3610) | - |
 |ICASSP'22| 45.0% (1785/3967) | - |
 |ICASSP'23| ?% (? /?) | - |
-|ICASSP'24| 45.0% (?/5796) | - |
+|ICASSP'24| 45.0% (~2812/5796) | - |
 
 
 Note: 
