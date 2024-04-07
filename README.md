@@ -106,6 +106,7 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |ICLR'21| 28.7% (860/2997) (53 orals, 114 spotlights and 693 posters) | - |
 |ICLR'22| 32.9% (1095/3328) (54 orals, 176 spotlights and 865 posters) | - |
 |ICLR'23| 32.0% (1574/4956) (91 orals, 280 spotlights and 1203 posters) | - |
+|ICLR'24| 30.81% (2250/7304) (85 orals, 366 spotlights and 1799 posters) | - |
 |COLT'14 | 32.1% (45/140) | - |
 |COLT'15 | 34.8% (62/178) | - |
 |COLT'16 | 26.1% (53/203) | - |
@@ -132,6 +133,8 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |AISTATS'20| - | - |
 |AISTATS'21| 29.8% (455/1527) (48 orals)  | - |
 |AISTATS'22| 29.2% (493/1685) | - |
+|AISTATS'23| - | - |
+|AISTATS'24| 27.6% (546/1980) | - |
 
 ### Artificial Intelligence
 
@@ -147,6 +150,7 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |AAAI'21 | 21.4% (1692/7911) | - |
 |AAAI'22 | 15.0% (1349/9020) | - |
 |AAAI'23 | 19.6% (1721/8777) | - |
+|AAAI'24 | 23.75% (2342/9862) | - |
 |IJCAI'13 | 28.0% (413/1473) | - |
 |IJCAI'15 | 28.6% (572/1996) | - |
 |IJCAI'16 | 24.0% (551/2294) | - |
