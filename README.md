@@ -88,6 +88,7 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |ICML'21 | 21.5% (1184/5513) (166 long talks, 1018 short talks) | - |
 |ICML'22 | 21.9% (1235/5630) (118 long talks, 1117 short talks) | - |
 |ICML'23 | 27.9% (1827/6538) (158 live orals, 1669 virtual orals with posters) | - |
+|ICML'24 | 27.5% (2609/9473) | - |
 |NeurIPS'14 | 24.7% (414/1678) | - |
 |NeurIPS'15 | 21.9% (403/1838) | - |
 |NeurIPS'16 | 23.6% (569/2403) | - |
