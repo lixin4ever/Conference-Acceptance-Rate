@@ -136,7 +136,7 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |AISTATS'20| - | - |
 |AISTATS'21| 29.8% (455/1527) (48 orals)  | - |
 |AISTATS'22| 29.2% (493/1685) | - |
-|AISTATS'23| - | - |
+|AISTATS'23| 29.4% (496/1686) | - |
 |AISTATS'24| 27.6% (546/1980) | - |
 
 ### Artificial Intelligence
