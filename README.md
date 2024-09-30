@@ -32,6 +32,8 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |EMNLP'21 Findings | 11.8% (300/2540) | 11.2% (119/1060)|
 |EMNLP'22 | 22.1% (715/3242)| 12.0% (114/948)|
 |EMNLP'22 Findings | 14.0% (453/3242) | 10.1% (96/948)|
+|EMNLP'23 | 23.3% (901/3868) | 14.0% (146/1041)|
+|EMNLP'23 Findings | 22.9% (886/3868) | 19.5% (203/1041)|
 |NAACL-HLT'13 | 30.0% (88/293) | 32.1% (51/162) |
 |NAACL-HLT'15 | 29.1% (117/402) | 22.1% (69/312) |
 |NAACL-HLT'16 | 25.3% (100/396) | 28.9% (82/284) |
@@ -86,6 +88,7 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |ICML'21 | 21.5% (1184/5513) (166 long talks, 1018 short talks) | - |
 |ICML'22 | 21.9% (1235/5630) (118 long talks, 1117 short talks) | - |
 |ICML'23 | 27.9% (1827/6538) (158 live orals, 1669 virtual orals with posters) | - |
+|ICML'24 | 27.5% (2610/9473) (144 orals, 191 spotlights and 2275 posters) | - |
 |NeurIPS'14 | 24.7% (414/1678) | - |
 |NeurIPS'15 | 21.9% (403/1838) | - |
 |NeurIPS'16 | 23.6% (569/2403) | - |
@@ -134,7 +137,7 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |AISTATS'20| - | - |
 |AISTATS'21| 29.8% (455/1527) (48 orals)  | - |
 |AISTATS'22| 29.2% (493/1685) | - |
-|AISTATS'23| - | - |
+|AISTATS'23| 29.4% (496/1686) | - |
 |AISTATS'24| 27.6% (546/1980) | - |
 
 ### Artificial Intelligence
@@ -161,6 +164,7 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |IJCAI'20 | 12.6% (592/4717) | - |
 |IJCAI'21 | 13.9% (587/4204) | - |
 |IJCAI'22 | 14.9% (679/4535) | - |
+|IJCAI'23 | 14.1% (643/4566) | - |
 
 ### Data Mining and Information Retrieval
 
@@ -249,7 +253,7 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |ICASSP'19| 46.5% (1774/3815) | - |
 |ICASSP'21| 48.0% (1734/3610) | - |
 |ICASSP'22| 45.0% (1785/3967) | - |
-|ICASSP'23| ?% (? /?) | - |
+|ICASSP'23| 45.1% (2765/6127) | - |
 |ICASSP'24| 45.0% (~2812/5796) | - |
 
 
