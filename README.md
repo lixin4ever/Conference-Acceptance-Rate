@@ -64,6 +64,7 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |CVPR'22 | 25.3% (2067/8161) | - |
 |CVPR'23 | 25.8% (2360/9155) | - |
 |CVPR'24 | 23.6% (2719/11532) (90 orals, 324 Highlight, 2305 posters) | - |
+|CVPR'25 | 22.1% (2872/13008)  | - |
 |ICCV'13 | 27.9% (454/1629) (41 orals and 413 posters) | - |
 |ICCV'15 | 30.9% (525/1698) | - |
 |ICCV'17 | 29.0% (621/2143) (45 orals, 56 spotlights and 520 posters) | - |
