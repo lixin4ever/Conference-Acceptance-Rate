@@ -20,6 +20,12 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |ACL'22 Findings | ? (361/?) | ? (361/?) |
 |ACL'23 | 23.5% (910/3872) | 16.5% (164/992) |
 |ACL'23 Findings | 18.4% (712/3872) | 19.1% (189/992) |
+|ACL'24 | 21.3% (940/4407) | - |
+|ACL'24 Findings | 22.1% (975/4407) | - |
+|ACL'25 | 20.3% (1699/8360) | - |
+|ACL'25 Findings | 16.7% (1392/8360) | - |
+|ACL'26 | 18.9% (2296/12148) | - |
+|ACL'26 Findings | 17.8% (2163/12148) | - |
 |EMNLP'14 | 30.4% (155/510) | 27.8% (70/252) |
 |EMNLP'15 | 26.2% (157/600) | 22.1% (155/700) |
 |EMNLP'16 | 25.8% (177/687) | 21.8% (87/400) |
@@ -34,6 +40,10 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |EMNLP'22 Findings | 14.0% (453/3242) | 10.1% (96/948)|
 |EMNLP'23 | 23.3% (901/3868) | 14.0% (146/1041)|
 |EMNLP'23 Findings | 22.9% (886/3868) | 19.5% (203/1041)|
+|EMNLP'24 | 20.8% (1271/6105) | - |
+|EMNLP'24 Findings | 16.9% (1029/6105) | - |
+|EMNLP'25 | 22.2% (1811/8174) | - |
+|EMNLP'25 Findings | 17.3% (1417/8174) | - |
 |NAACL-HLT'13 | 30.0% (88/293) | 32.1% (51/162) |
 |NAACL-HLT'15 | 29.1% (117/402) | 22.1% (69/312) |
 |NAACL-HLT'16 | 25.3% (100/396) | 28.9% (82/284) |
@@ -42,12 +52,17 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |NAACL-HLT'21 | 29.2% (366/1254) | 22.6% (123/544) |
 |NAACL-HLT'22 | ? (358/?) | ? (84/?) |
 |NAACL-HLT'22 Findings | ? (183/?) | ? (26/?) |
+|NAACL-HLT'24 | 23.2% (565/2434) | - |
+|NAACL-HLT'24 Findings | 12.5% (304/2434) | - |
+|NAACL-HLT'25 | 22% (719/?) | - |
+|NAACL-HLT'25 Findings | 15% (477/?) | - |
 |COLING'12 | 27% (311/1000+) | - |
 |COLING'14 | 30.8% (217/705) | - |
 |COLING'16 | 32.4% (337/1039) | - |
 |COLING'18 | 37.4% (332/888) | - |
 |COLING'20| 33.4% (622/1862) | - |
 |COLING'22| 33.4% (522/1563) | 24.2% (112/463) |  
+|COLING'25| 31.7% (663/2089) | 22.1% (97/439) |
 
 ### Computer Vision and Pattern Recognition
 
@@ -64,15 +79,21 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |CVPR'22 | 25.3% (2067/8161) | - |
 |CVPR'23 | 25.8% (2360/9155) | - |
 |CVPR'24 | 23.6% (2719/11532) (90 orals, 324 Highlight, 2305 posters) | - |
-|CVPR'25 | 22.1% (2872/13008)  | - |
+|CVPR'25 | 22.1% (2878/13008) | - |
+|CVPR'26 | 25.4% (4090/16092) | - |
 |ICCV'13 | 27.9% (454/1629) (41 orals and 413 posters) | - |
 |ICCV'15 | 30.9% (525/1698) | - |
 |ICCV'17 | 29.0% (621/2143) (45 orals, 56 spotlights and 520 posters) | - |
 |ICCV'19 | 25.0% (1077/4304) (187 short orals and 1077 posters)| - |
+|ICCV'21 | 25.9% (1617/6236) | - |
+|ICCV'23 | 26.2% (2161/8260) (152 orals) | - |
+|ICCV'25 | 24.0% (2699/11239) | - |
 |ECCV'14 | 27.9% (363/1444) (38 orals and 325 posters) | - |
 |ECCV'16 | 26.6% (415/1561) (28 orals, 45 spotlights and 342 posters) | - |
 |ECCV'18 | 31.8% (776/2439) (59 orals and 717 posters) | - |
 |ECCV'20 | 27.1% (1361/5025) (104 orals, 161 spotlights and 1096 posters) | - |
+|ECCV'22 | 28.3% (1645/5804) (157 orals and 1488 posters) | - |
+|ECCV'24 | 27.9% (2395/8585) (200 orals and 2195 posters) | - |
 
 
 ### Machine Learning and Learning Theory
@@ -90,6 +111,8 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |ICML'22 | 21.9% (1235/5630) (118 long talks, 1117 short talks) | - |
 |ICML'23 | 27.9% (1827/6538) (158 live orals, 1669 virtual orals with posters) | - |
 |ICML'24 | 27.5% (2610/9473) (144 orals, 191 spotlights and 2275 posters) | - |
+|ICML'25 | 26.9% (3260/12107) (313 spotlights) | - |
+|ICML'26 | 26.6% (6352/23918) (536 spotlights) | - |
 |NeurIPS'14 | 24.7% (414/1678) | - |
 |NeurIPS'15 | 21.9% (403/1838) | - |
 |NeurIPS'16 | 23.6% (569/2403) | - |
@@ -98,7 +121,7 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |NeurIPS'19| 21.1% (1428/6743) (36 orals, 164 spotlights and 1228 posters) | - |
 |NeurIPS'20| 20.1% (1900/9454) (105 orals, 280 spotlights and 1515 posters) | - |
 |NeurIPS'21| 25.7% (2344/9122) (55 orals, 260 spotlights and 2029 posters) | - |
-|NeurIPS'22| 25.6% (?/10411) (? orals, ? spotlights and ? posters) | - |
+|NeurIPS'22| 25.6% (2672/10411) (184 orals and 2488 posters) | - |
 |NeurIPS'23| 26.1% (3218/12343) (67 orals, 378 spotlights and 2773 posters) | - |
 |NeurIPS'24| 25.8% (4037/15671) (61 orals, 327 spotlights and 3649 posters) | - |
 |NeurIPS'25| 24.5% (5290/21575) (77 orals, 688 spotlights and 4525 posters) | - |
@@ -113,7 +136,9 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |ICLR'22| 32.9% (1095/3328) (54 orals, 176 spotlights and 865 posters) | - |
 |ICLR'23| 32.0% (1574/4956) (91 orals, 280 spotlights and 1203 posters) | - |
 |ICLR'24| 30.81% (2250/7304) (85 orals, 366 spotlights and 1799 posters) | - |
-|ICLR'25| 31.75% (3706/11672) (- orals, - spotlights and 3638 posters) | - |
+|ICLR'25| 31.75% (3706/11672) (213 orals, 380 spotlights and 3113 posters) | - |
+|ICLR'26| 27.4% (5355/19525) (223 orals and 5132 posters) | - |
+|ICLR'27| ? (?/~62300) (preliminary: OpenReview submission IDs at the abstract deadline, not the final submission count) | - |
 |COLT'14 | 32.1% (45/140) | - |
 |COLT'15 | 34.8% (62/178) | - |
 |COLT'16 | 26.1% (53/203) | - |
@@ -121,6 +146,10 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |COLT'18 | 27.2% (91/335) | - |
 |COLT'19 | 30.0% (118/393) | - |
 |COLT'20| 30.9% (120/388) | - |
+|COLT'21 | 35.1% (136/387) | - |
+|COLT'22 | 33.0% (155/470) | - |
+|COLT'23 | 34.6% (164/474) | - |
+|COLT'24 | 35.7% (160/448) | - |
 |UAI'14 | 32.0% (94/292) | - |
 |UAI'15 | 34.0% (99/291) | - |
 |UAI'16 | 31.0% (85/275) | - |
@@ -162,6 +191,7 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |AAAI'23 | 19.6% (1721/8777) | - |
 |AAAI'24 | 23.75% (2342/9862) | - |
 |AAAI'25 | 23.40% (3032/12957) | - |
+|AAAI'26 | 17.6% (4167/23680) | - |
 |IJCAI'13 | 28.0% (413/1473) | - |
 |IJCAI'15 | 28.6% (572/1996) | - |
 |IJCAI'16 | 24.0% (551/2294) | - |
@@ -172,6 +202,9 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |IJCAI'21 | 13.9% (587/4204) | - |
 |IJCAI'22 | 14.9% (679/4535) | - |
 |IJCAI'23 | 14.1% (643/4566) | - |
+|IJCAI'24 | 14.0% (791/5651) | - |
+|IJCAI'25 | 17.6% (1023/5806) | - |
+|IJCAI'26 | 13.6% (712/5233) | - |
 
 ### Data Mining and Information Retrieval
 
@@ -186,6 +219,8 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |KDD'20 | 16.9% (216/1279) | - |
 |KDD'22 | 15.0% (254/1695) | - |
 |KDD'23 | 22.1% (313/1416) | - |
+|KDD'24 | 20.1% (411/2046) | - |
+|KDD'25 | 18.7% (552/2955) | - |
 |SIGIR'14 | 21.0% (82/387) | 40.0% (104/263) |
 |SIGIR'15 | 20.0% (70/351) | 31.3% (79/252) |
 |SIGIR'16 | 18.0% (62/341) | 30.6% (104/339) |
@@ -195,6 +230,8 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |SIGIR'20 | 26.5% (147/555) | 30.2% (153/507) |
 |SIGIR'21 | 21.0% (151/720) | 27.6% (145/526) |
 |SIGIR'22 | 20.3% (161/794) | 24.7% (165/667) |
+|SIGIR'23 | 20.1% (165/822) | 25.1% (154/613) |
+|SIGIR'24 | 20.2% (160/791) | 24.0% (87/362) |
 |TheWebConf'14 | 13.0% (84/645) | - |
 |TheWebConf'15 | 14.0% (131/929) | - |
 |TheWebConf'16 | 16.0% (115/727) | - |
@@ -205,6 +242,8 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |TheWebConf'21 | 20.6% (357/1736) | - |
 |TheWebConf'22 | 17.7% (323/1822) | - |
 |TheWebConf'23 | 19.2% (365/1900) | - |
+|TheWebConf'24 | 20.2% (405/2008) | - |
+|TheWebConf'25 | 19.8% (409/2062) | - |
 |WSDM'14 | 18.0% (64/355) | - |
 |WSDM'15 | 16.4% (39/238) | - |
 |WSDM'16 | 18.2% (67/368) | - |
@@ -224,6 +263,9 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |CIKM'20 | 21.0% (193/920) | 25.9% (103/397) |
 |CIKM'21 | 21.7% (271/1251) | 28.3% (177/626) |
 |CIKM'22 | ?% (272/?) | ?% (196/?) |
+|CIKM'23 | 24.0% (354/1472) | 27.4% (152/554) |
+|CIKM'24 | 23.2% (347/1496) | 26.8% (141/527) |
+|CIKM'25 | 27.2% (443/1627) | 30.1% (185/615) |
 |ICDM'14 | 9.8% (71/727) | 9.8% (71/727) |
 |ICDM'15 | 8.4% (68/807) | 9.7% (78/807) |
 |ICDM'16 | 8.6% (78/904) | 11.0% (100/904) |
@@ -232,12 +274,19 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |ICDM'19 | 9.1% (95/1046) | 9.5% (99/1046) |
 |ICDM'20 | 9.8% (91/930) | 9.9% (92/930) |
 |ICDM'21 | 9.9% (98/990) | 10.1% (100/990) |
+|ICDM'23 | 9.4% (94/1003) | 10.6% (106/1003) |
+|ICDM'24 | 11.1% (67/604) | 8.4% (51/604) |
 |RecSys'15| 23.0% (35/152) | - |
 |RecSys'16| 18.2% (29/159) | - |
 |RecSys'17| 20.8% (26/125) | 16.4% (20/122) |
 |RecSys'18| 17.7% (32/181) | - |
 |RecSys'19| 19.0% (36/189) | - |
 |RecSys'20| 17.9% (39/218) | - |
+|RecSys'21| 18.4% (49/267) | - |
+|RecSys'22| 16.9% (39/231) | - |
+|RecSys'23| 17.5% (47/269) | - |
+|RecSys'24| 21.8% (58/266) | - |
+|RecSys'25| 18.8% (49/261) | - |
 
 
 ### Speech and Signal Processing
@@ -252,12 +301,15 @@ Acceptance rates for the ~~major~~ top-tier AI-related conferences
 |INTERSPEECH'19| 49.3% (914/1855) | - |
 |INTERSPEECH'20| ~47% (?/?) | - |
 |INTERSPEECH'21| 48.4% (963/1990) | - |
+|INTERSPEECH'22| 51.5% (1102/2140) | - |
+|INTERSPEECH'23| 49.7% (1097/2207) | - |
 |ICASSP'14| 48.0% (1709/3500) | - |
 |ICASSP'15| 52.0% (1207/2322) | - |
 |ICASSP'16| 47.0% (1265/2682) | - |
 |ICASSP'17| 52.0% (1220/2518) | - |
 |ICASSP'18| 49.7% (1406/2829) | - |
 |ICASSP'19| 46.5% (1774/3815) | - |
+|ICASSP'20| 47.6% (1881/3951) | - |
 |ICASSP'21| 48.0% (1734/3610) | - |
 |ICASSP'22| 45.0% (1785/3967) | - |
 |ICASSP'23| 45.1% (2765/6127) | - |
@@ -268,3 +320,5 @@ Note:
 
 1. For **KDD** and **TheWebConf** (formerly known as **WWW**), only the papers from research track are counted.  
 2. For **ICDM**, submissions of short paper and those of long paper are in the same session and the decision of the paper type is made according to its quality.
+3. Since **ACL'24**, **EMNLP'24** and **NAACL-HLT'24** (ACL Rolling Review), only overall numbers are reported: long and short papers are counted together (in the Long Paper column), and the main conference and Findings share the same denominator.
+4. Counts marked as *preliminary* (e.g., **ICLR'27**) are unofficial numbers reported before the final submission deadline and will be replaced once official statistics are released.
